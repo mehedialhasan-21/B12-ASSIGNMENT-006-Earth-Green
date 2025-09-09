@@ -43,6 +43,6 @@
 
 
 ## 🔗 Submission
- **Live Link (Netlify) :
+ **Live Link (Netlify) : https://b12-assignment-006-earth-green.netlify.app/
 
  
